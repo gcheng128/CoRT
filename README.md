@@ -1,1 +1,3 @@
 # CoRT
+
+The code and data for FinRisk-Bench is still being reviewed. We plan to release the materials as soon as the review process has been completed...
